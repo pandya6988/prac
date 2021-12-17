@@ -2,6 +2,6 @@
   "prac": {
     "Overview": "/",
     "Core": "core.html",
-    "Utils": "core_utils.html"
+    "Utils": "core.utils.html"
   }
 }
