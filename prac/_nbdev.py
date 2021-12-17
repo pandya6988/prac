@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"multiply": "01_core.utils.ipynb"}
 
-modules = []
+modules = ["utils/math.py"]
 
 doc_url = "https://pandya6988.github.io/prac/"
 
