@@ -11,6 +11,9 @@ entries:
       url: /
     - output: web,pdf
       title: Core
+      url: core.html
+    - output: web,pdf
+      title: Utils
       url: core_utils.html
     output: web
     title: prac

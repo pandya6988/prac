@@ -1,6 +1,7 @@
 {
   "prac": {
     "Overview": "/",
-    "Core": "core_utils.html"
+    "Core": "core.html",
+    "Utils": "core_utils.html"
   }
 }
